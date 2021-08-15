@@ -18,7 +18,7 @@ Cancer survivability prediction has been of great interest to health professiona
 
    - Please refer to the [FileDescription.pdf](https://seer.cancer.gov/data-software/documentation/seerstat/nov2015/TextData.FileDescription.pdf) for more descriptoin about the installation and dataset preparation.
 
-   - We also employ a few benchmarking problems from the [UCI](https://archive.ics.uci.edu/ml/datasets.php) repository, including Hepatitis, Liver, Blood (transfusion), Mammographic, Loan (Student Relational), Tae (Teaching Assistant Evaluation), Cleveland (heart-disease), CMC (Contraceptive Method Choice), Wine (quality, red), and Abalone.
+   - We also employ a few benchmarking problems from the [UCI](https://archive.ics.uci.edu/ml/datasets.php) repository, including Hepatitis, Liver, Blood, Mammographic, Loan, Tae, Cleveland, CMC, Wine, and Abalone.
 
 
 ## Result
