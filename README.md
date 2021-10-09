@@ -4,6 +4,7 @@ This project hosts the codes for the paper:
 
 > [**Low-rank and sparse representation based learning for cancer survivability prediction**]
 > Jie Yang, Jun Ma, Khin Than Win, Junbin Gao, Zhenyu Yang
+> Accepted by Information Science
 
 
 ## Abstract
